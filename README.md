@@ -1,4 +1,4 @@
-# galeriaia
+# galería IA
 
 ## ¡Bienvenido a la Galería de Imágenes! 📷🎉
 
